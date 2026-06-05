@@ -36,7 +36,7 @@ Designed and developed a MERN-based platform to digitize the complete workflow, 
 
 Detailed system architecture and workflow documentation are available in:
 
-docs/ProjectOverview.pdf
+DFMEA doc.pdf
 
 ---
 
